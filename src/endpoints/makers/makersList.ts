@@ -185,6 +185,11 @@ const makers = [
 		link: "http://www.buffalosystems.co.uk/",
 	},
 	{
+		name: "Burgeon Outdoor",
+		categoryList: "cottage usa clothing",
+		link: "https://www.burgeonoutdoor.com/"
+	},
+	{
 		name: "Bushbuddy",
 		categoryList: "cottage usa kitchen",
 		link: "https://bushbuddystove.com/",
